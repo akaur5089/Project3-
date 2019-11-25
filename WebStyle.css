@@ -1,0 +1,80 @@
+.homeTitle {
+  font-family: inherit;
+  font-size: 50pt;
+  color: black;
+  text-align: center;
+  margin-top: 50px;
+  border-color: #0000CD;
+  border-style: groove;
+  border-width: thick;
+}
+
+
+.image_with_text{
+  position: relative;
+  text-align: center;
+  font-size: 12pt;
+
+}
+
+.centered_desc  {
+  color: white;
+  position:absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #1A4D80;
+}
+
+.LatestNews {
+
+    position: relative;
+    margin-left: 60px;
+}
+
+.TwitterFeed {
+  margin-left: 70px;
+}
+
+.heading1{
+  padding-top: 60px;
+  margin-left: 70px;
+  color: black;
+}
+
+li{
+  text-align: left;
+  font-size: 12pt;
+  font-style: italic;
+  padding-top: 15px;
+}
+
+#heading3{
+  margin-top: -30px;
+  margin-bottom: 50px;
+  font-size: 40pt;
+}
+
+.jumbotron {
+  background-color:#1A4D80;
+  color: white;
+}
+
+#publications {
+  text-align: center;
+  color: grey;
+}
+
+.publication_date{
+  font-size: 25pt;
+  font-style: italic;
+}
+
+.publication_info{
+  font-size: 12pt;
+}
+
+footer {
+  text-align: right;
+  margin-top: 50px;
+}
